@@ -2,7 +2,10 @@
 
 Documentação do git para ajuda nos comandos.
 
-git init: Ele inicia o arquivo ".git/" para controlar a pasta.
+Ele inicia o arquivo ".git/" para controlar a pasta.
+````
+git init
+````
 
 git status:
 Ele é responsável por validar os arquivos modificados dentro do projeto.
